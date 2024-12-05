@@ -1,0 +1,1 @@
+This error occurs when using Tailwind CSS with a framework like Vue.js or React.js.  The issue arises when you apply a Tailwind class to an element, but that class is not included in your Tailwind configuration file (`tailwind.config.js` or `tailwind.config.cjs`). This might happen if you've recently added new classes or if there is a typo in your class name.
